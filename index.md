@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to "Interview test"
 
-You can use the [editor on GitHub](https://github.com/aletoz/interview-test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here you'll find links to exercises that you can solve to test your skills
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Exercise 1
 
-### Markdown
+[Recreate with HTML & CSS](https://codepen.io/raik/pen/gPLYvK)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Exercise 2
 
-```markdown
-Syntax highlighted code block
+[Recreate with HTML & CSS](https://puu.sh/y9zO1/a903cdc127.mp4)
 
-# Header 1
-## Header 2
-### Header 3
+### Exercise 3
 
-- Bulleted
-- List
+[Recreate with HTML & CSS](https://codepen.io/bephf/pen/emzKMJ)
 
-1. Numbered
-2. List
+### Exercise 4
 
-**Bold** and _Italic_ and `Code` text
+[Recreate with HTML & CSS & JS](https://puu.sh/y9zAO/c0375554c5.mp4)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aletoz/interview-test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
