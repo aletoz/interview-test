@@ -18,3 +18,7 @@ Here you'll find links to exercises that you can solve to test your skills
 
 [Recreate with HTML & CSS & JS](https://puu.sh/y9zAO/c0375554c5.mp4)
 
+### Multiple exercies
+
+Follow instructions and complete exercies [click here](https://codepen.io/eduardo-flores/pen/NbYvdO)
+
